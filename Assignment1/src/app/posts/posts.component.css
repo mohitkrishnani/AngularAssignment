@@ -1,0 +1,27 @@
+.table-div {
+  width:90%;
+  margin:auto;
+  margin-top: 2%;
+  bottom: 100px;
+  }
+  .mat-column-userId{
+    flex: 0 0 10%;
+  }
+  .mat-column-Id{
+    flex: 0 0 10%;
+  }
+  .mat-column-title{
+    flex: 0 0 30%;
+  }
+  .mat-header-row{
+    padding: 10px;
+  }
+  .mat-row{
+    padding: 10px;
+  }
+  .mat-cell{
+    margin-right: 10px;
+  }
+  .mat-header-cell{
+    margin-right: 10px;
+  }
